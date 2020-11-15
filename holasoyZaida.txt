@@ -2,6 +2,6 @@ Hola, Git!
 
 Soy Zaida. ¿Qué tal?
 
-¡Hablamos!
+Hablamos!
 
-Saludos.
+Más saludos.
